@@ -1,14 +1,11 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 using System.Threading.Tasks;
 using System.Runtime.Caching;
-using System.Timers;
 using Newtonsoft.Json;
 using RestSharp;
-using WeatherApiWrapper.WeatherApi;
+using WeatherSharp.WeatherApi;
 
-namespace WeatherApiWrapper
+namespace WeatherSharp
 {
     public class WeatherAPI
     {

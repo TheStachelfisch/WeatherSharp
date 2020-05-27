@@ -1,4 +1,4 @@
-﻿namespace WeatherApiWrapper
+﻿namespace WeatherSharp
 {
     public class TempUtils
     {

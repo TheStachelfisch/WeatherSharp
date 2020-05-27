@@ -1,10 +1,7 @@
 ﻿using System.Collections.Generic;
-using System.Runtime.InteropServices;
-using System.Runtime.InteropServices.WindowsRuntime;
 using Newtonsoft.Json;
-using Newtonsoft.Json.Serialization;
 
-namespace WeatherApiWrapper.WeatherApi
+namespace WeatherSharp.WeatherApi
 {
     public class GetWeather
     {
